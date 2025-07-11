@@ -6,7 +6,8 @@ This is a project submitted for the Front-end Intern test. The goal is to build 
 
 You can view a live demo of the project here:
 
-[**https://your-demo-link.vercel.app**](https://www.google.com/search?q=https://your-demo-link.vercel.app)  *(Please replace this with your Vercel/Netlify link)*
+[**https://your-demo-link.vercel.app**]([https://www.google.com/search?q=https://your-demo-link.vercel.app](https://test-mu-kohl-24.vercel.app/))
+([https://www.netlify.com/](https://astounding-cendol-5617c3.netlify.app/))*(Please replace this with your Vercel/Netlify link)*
 
 ## Features Implemented
 
@@ -76,6 +77,6 @@ The entire source code is contained within the `index.html` file:
 
 ## Author
 
-  - **Your Name**
-  - **Email**: your.email@example.com
-  - **LinkedIn**: [linkedin.com/in/yourprofile](https://www.google.com/search?q=https://linkedin.com/in/yourprofile)# antoree-fetest
+  - Nguyen Thanh Dat
+  - **Email**: catluong801@gmail.com
+  - **LinkedIn**: [linkedin.com/in/yourprofile]([https://www.google.com/search?q=https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nguyen-thanh-dat-709811284/))# antoree-fetest
